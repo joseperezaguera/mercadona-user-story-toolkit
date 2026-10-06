@@ -53,4 +53,4 @@ Los smoke tests del bridge están en `bridge/tests/` (próximamente). Para skill
 - Issues: bugs y propuestas
 - Discussions: dudas, casos de uso, retroalimentación
 
-Mantenedor: [@josemerca](https://github.com/josemerca) — José Ramón Pérez Agüera
+Mantenedor: [@joseperezaguera](https://github.com/joseperezaguera) — José Ramón Pérez Agüera

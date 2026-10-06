@@ -211,4 +211,4 @@ Cada equipo configura su integración con la herramienta de documentos por fuera
 
 ---
 
-*Plugin v0.1.0 — MIT License — https://github.com/josemerca/mercadona-user-story-toolkit*
+*Plugin v0.1.0 — MIT License — https://github.com/joseperezaguera/mercadona-user-story-toolkit*

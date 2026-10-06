@@ -47,7 +47,7 @@ Cubre el "antes" del código. Para el "durante" del código (implementación), s
 
 ```bash
 # Clonar
-git clone https://github.com/josemerca/mercadona-user-story-toolkit ~/.claude/plugins/mercadona-user-story-toolkit
+git clone https://github.com/joseperezaguera/mercadona-user-story-toolkit ~/.claude/plugins/mercadona-user-story-toolkit
 
 # Activar en ~/.claude/settings.json
 {
